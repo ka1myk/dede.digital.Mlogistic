@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 08/24/2018 23:05:26
-2018 8 24 23 5 26
-9755 8882 44 436 55 34 154498905 3703 127 0 0 0
-23 20 1204 22 24
+# Webalizer V2.23-08 Incremental Data - 08/25/2018 23:22:45
+2018 8 25 23 22 45
+11547 10604 49 436 60 34 185064645 4564 154 0 0 0
+12 24 1204 22 25
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
@@ -26,14 +26,14 @@
 4465 4016 70197620 20 1842 52 0 0
 3161 2939 41156280 11 1489 36 0 0
 2129 1927 43145005 23 372 39 0 0
+1792 1722 30565740 12 861 27 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0
+91 88 3876767 16 0 0
 65 65 1591528 1 0 0
 0 0 0 0 0 0
 1 0 461 1 0 0
@@ -43,42 +43,42 @@
 2 1 720 1 0 0
 212 167 2499571 12 0 0
 221 194 4168825 22 0 0
-438 371 5691384 83 0 0
-245 232 4944288 50 0 0
-1780 1693 33743584 678 0 0
+526 437 7596762 97 0 0
+247 234 5599287 50 0 0
+1830 1732 34081084 680 0 0
 1625 1491 27854194 958 0 0
-2010 1793 23056325 1068 0 0
-1011 909 13581249 308 0 0
+2076 1840 23459772 1070 0 0
+1017 914 13647545 313 0 0
 719 675 11089782 198 0 0
 628 565 8801381 196 0 0
-117 117 1622771 53 0 0
-2 2 20329 2 0 0
-135 130 2459493 15 0 0
-131 112 1974856 3 0 0
-104 69 1860963 11 0 0
-20 20 163802 1 0 0
+595 588 12519186 221 0 0
+476 473 7219458 252 0 0
+474 467 7371279 223 0 0
+274 253 2167456 144 0 0
+135 100 1941218 42 0 0
+44 44 204970 25 0 0
 0
 0
 0
-8882
+10604
 0
 0
 0
-14
+16
 0
 1
 0
-41
-89
+42
+102
 0
-677
-0
-0
+730
 0
 0
 0
 0
-43
+0
+0
+44
 0
 0
 0
@@ -100,151 +100,151 @@
 0
 # -urls- 
 /wp-content/uploads/2018/08/Titulbilde-2-300x150.jpg
-1 2 13059488 11678 0 0 0 0
+1 2 10929568 11678 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/img/fs.png
-1 2 0 699 0 0 0 0
+1 3 0 1207 0 0 0 0
 /wp-admin/css/widgets.min.css
-0 5 0 16935 0 0 0 0
+0 6 0 20533 0 0 0 0
 /wp-content/plugins/ocean-extra/assets/css/admin.min.css
-0 6 0 4428 0 0 0 0
+0 7 0 5406 0 0 0 0
 /wp-content/plugins/polylang/css/admin.min.css
-0 9 0 16175 0 0 0 0
+0 10 0 18208 0 0 0 0
 /wp-content/uploads/2018/08/Mtransfer.jpg
 1 10 0 1119513 0 0 0 0
 /wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-mailchimp.png
-1 1 0 16108 0 0 0 0
+1 2 0 32347 0 0 0 0
 /wp-content/plugins/popup-maker//assets/images/admin/dashboard-icon.png
-1 6 0 5146 0 0 0 0
+1 8 0 8598 0 0 0 0
 /wp-content/uploads/2018/08/Mtransfer.png
-1 8 0 1719793 0 0 0 0
+1 9 0 2150598 0 0 0 0
 /wp-content/uploads/2018/08/Mriepas-1.jpg
-1 17 0 998508 0 0 0 0
+1 18 0 998703 0 0 0 0
 /wp-content/uploads/elementor/css/post-424.css
-0 13 0 20766 0 0 0 0
+0 14 0 22219 0 0 0 0
 /wp-content/uploads/2018/07/Piekabe-Trailer-300x234.png
 1 2 0 219789 0 0 0 0
 /wp-content/uploads/2018/08/Busina-Dibens.jpg
-1 64 7233173838331999556 2193638 0 0 0 0
-/wp-content/plugins/wpforms-lite/assets/js/list.min.js
-0 1 8315185495964542312 6505 0 0 0 0
+1 75 7233173838331999556 2654043 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/metabox/butterbean/css/butterbean.min.css
-0 1 2334397761725690985 1471 0 0 0 0
+0 2 8315185495964542312 3157 0 0 0 0
+/wp-content/plugins/wpforms-lite/assets/js/list.min.js
+0 2 8747512699206985069 13199 0 0 0 0
 /wp-content/uploads/pum/pum-site-scripts.js
-0 98 7306000115584540787 1384330 0 0 0 0
+0 107 7306000115584540787 1511248 0 0 0 0
 /wp-admin/themes.php
 0 1 8391086150637592692 16456 0 0 0 0
 /wp-admin/js/widgets/media-gallery-widget.min.js
-0 6 749398746045886473 9251 0 0 0 0
+0 7 749398746045886473 10962 0 0 0 0
 /wp-content/uploads/2018/08/FB-STASTIKA-1-300x177.jpg
 1 1 0 20209 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/admin.min.js
-0 1 0 5754 0 0 0 0
+0 2 0 11697 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/img/bs.png
-1 2 0 697 0 0 0 0
+1 3 0 1204 0 0 0 0
 /wp-includes/js/tinymce/langs/wp-langs-en.js
-0 1 0 5728 0 0 0 0
-/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-zapier.png
-1 1 0 3570 0 0 0 0
+0 2 0 11700 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-backend.min.js
-0 5 0 334041 0 0 0 0
+0 6 0 401727 0 0 0 0
+/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-zapier.png
+1 2 0 7271 0 0 0 0
 /wp-includes/js/codemirror/codemirror.min.css
-0 4 0 18559 0 0 0 0
-/wp-content/plugins/wpforms-lite/assets/css/jquery.minicolors.css
-0 1 0 1631 0 0 0 0
+0 5 0 23539 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css
-0 6 0 19535 0 0 0 0
+0 7 0 22989 0 0 0 0
+/wp-content/plugins/wpforms-lite/assets/css/jquery.minicolors.css
+0 2 0 3559 0 0 0 0
 /wp-content/uploads/2018/07/Kukotava-150x33.png
 1 2 0 13711 0 0 0 0
 /wp-includes/js/customize-preview-nav-menus.min.js
-0 2 0 4133 0 0 0 0
+0 3 0 6387 0 0 0 0
 /wp-content/uploads/2018/08/Fona-Bilde-Statistik-300x225.jpg
 1 2 0 20291 0 0 0 0
 /wp-content/themes/oceanwp/assets/css/third/font-awesome.min.css
-0 73 0 558710 0 0 0 0
+0 84 0 647937 0 0 0 0
 /wp-content/uploads/2018/07/Logistic-Partners-07.svg
-0 65 0 566201 0 0 0 0
+0 75 0 672255 0 0 0 0
 /wp-includes/js/codemirror/htmlhint.js
-0 5 0 30141 0 0 0 0
+0 6 0 36369 0 0 0 0
 /wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-aweber.png
-1 1 0 6213 0 0 0 0
+1 2 0 12557 0 0 0 0
 /wp-content/plugins/polylang/flags/gb.png
 1 1 0 867 0 0 0 0
 /wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff
-0 2 0 37951 0 0 0 0
+0 3 0 57114 0 0 0 0
 /wp-includes/js/customize-preview.min.js
-0 2 0 6917 0 0 0 0
+0 3 0 10730 0 0 0 0
 /wp-content/uploads/2018/07/logistics-delivery-truck-in-movement.svg
-0 66 0 145401 0 0 0 0
+0 76 0 172549 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/plugins/widgetarrow/image/image/imageEmpty.png
 1 1 0 1061 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js
-0 60 0 475609 0 0 0 0
+0 70 0 555099 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/images/logo.png
-1 1 0 7938 0 0 0 0
+1 2 0 16007 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/font-awesome.min.css
-0 2 0 14749 0 0 0 0
+0 4 0 30013 0 0 0 0
 /wp-content/plugins/ocean-extra/assets/css/widgets.css
-0 66 0 422287 0 0 0 0
+0 78 0 496813 0 0 0 0
 /wp-content/themes/twentyfifteen/screenshot.png
 1 1 0 576505 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js
-0 5 0 32466 0 0 0 0
+0 6 0 39159 0 0 0 0
 /wp-content/plugins/ocean-extra//assets/img/oceanwp.png
-1 5 0 3308 0 0 0 0
+1 7 0 5176 0 0 0 0
 /wp-content/plugins/megamenu/js/admin.js
 0 3 0 20387 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/general.min.css
-0 2 0 4108 0 0 0 0
+0 3 0 6487 0 0 0 0
 /wp-content/uploads/2018/08/Mautoserviss-1-1.png
-1 8 0 1938147 0 0 0 0
+1 9 0 2423628 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/dist/n2.min.js
-0 69 0 121497 0 0 0 0
+0 79 0 140407 0 0 0 0
 /wp-includes/css/buttons.min.css
-0 6 0 10867 0 0 0 0
+0 7 0 12847 0 0 0 0
 /wp-content/plugins/megamenu/font/maxmegamenu.woff2
-0 7 0 14155 0 0 0 0
+0 9 0 19865 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/e-select2/js/e-select2.full.min.js
-0 6 0 130445 0 0 0 0
+0 8 0 174439 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/menu-icons/css/admin.min.css
 0 3 0 3129 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/img/rs.png
-1 2 0 482 0 0 0 0
+1 3 0 987 0 0 0 0
 /wp-content/uploads/2018/07/verification-of-delivery-list-clipboard-symbol-1.svg
-0 64 0 236274 0 0 0 0
+0 74 0 283974 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/e-select2/css/e-select2.min.css
-0 6 0 13793 0 0 0 0
+0 7 0 16261 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff
 0 2 0 68150 0 0 0 0
 /wp-includes/js/imgareaselect/border-anim-h.gif
 1 1 0 446 0 0 0 0
 /wp-content/themes/oceanwp/assets/js/third/lightbox.min.js
-0 67 0 61404 0 0 0 0
+0 77 0 71944 0 0 0 0
 /wp-content/plugins/elementor/assets/css/admin.min.css
-0 9 0 48470 0 0 0 0
+0 12 0 65126 0 0 0 0
 /wp-admin/js/editor.min.js
-0 7 0 35834 0 0 0 0
+0 8 0 41150 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/metabox/controls/assets/js/select2.full.min.js
-0 3 0 64643 0 0 0 0
+0 4 0 86456 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/icon-picker.min.css
 0 3 0 1977 0 0 0 0
 /wp-content/uploads/2018/08/Mriepas.png
-1 8 0 1728268 0 0 0 0
+1 9 0 2161192 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
-0 10 0 284816 0 0 0 0
-/wp-includes/css/customize-preview.min.css
-0 2 0 2445 0 0 0 0
+0 12 0 398664 0 0 0 0
+/wp-content/uploads/2018/08/Loyal-01.svg
+0 74 0 312751 0 0 0 0
 /wp-content/uploads/2018/07/Baltic-XL-1-150x56.png
 1 2 0 14009 0 0 0 0
-/wp-content/uploads/2018/08/Loyal-01.svg
-0 64 0 262235 0 0 0 0
+/wp-includes/css/customize-preview.min.css
+0 3 0 3855 0 0 0 0
 /wp-content/uploads/2018/08/Titulbilde-1.jpg
-1 71 0 13088828 0 0 0 0
+1 81 0 14923477 0 0 0 0
 /wp-includes/js/thickbox/thickbox.css
-0 9 0 11818 0 0 0 0
+0 11 0 14778 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.jquery-confirm.min.js
-0 1 0 7507 0 0 0 0
+0 2 0 15202 0 0 0 0
 /wp-includes/js/wp-lists.min.js
-0 2 0 5745 0 0 0 0
+0 3 0 8834 0 0 0 0
 /wp-content/uploads/2018/08/Mautoserviss-1-1-300x64.png
 1 5 0 35001 0 0 0 0
 /wp-admin/images/arrows-2x.png
@@ -252,21 +252,21 @@
 /wp-content/themes/oceanwp/assets/fonts/slick/slick.woff
 0 2 0 1942 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/metabox/controls/assets/css/select2.min.css
-0 3 0 6869 0 0 0 0
+0 4 0 9337 0 0 0 0
 /wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
 1 2 0 4389 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.tooltipster.min.js
-0 1 0 5185 0 0 0 0
+0 2 0 10559 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js
-0 5 0 61860 0 0 0 0
+0 6 0 74472 0 0 0 0
 /wp-content/uploads/2018/07/Logistic-Partners-06.svg
-0 65 0 1238505 0 0 0 0
+0 75 0 1480821 0 0 0 0
 /wp-admin/load-scripts.php
-0 39 0 2719293 0 0 0 0
+0 52 0 3810675 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
-0 67 0 230668 0 0 0 0
+0 78 0 269355 0 0 0 0
 /wp-admin/images/spinner.gif
-1 1 0 4432 0 0 0 0
+1 2 0 8995 0 0 0 0
 /ru/feed/
 0 2 0 2338 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/admin/images/wordpress-publish.png
@@ -274,113 +274,113 @@
 /wp-includes/images/spinner-2x.gif
 1 2 0 8917 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/metabox/controls/assets/css/butterbean.min.css
-0 3 0 9606 0 0 0 0
+0 4 0 13153 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
-0 70 0 196939 0 0 0 0
+0 79 0 222949 0 0 0 0
 /wp-admin/plugins.php
 0 1 0 23593 0 0 0 0
 /wp-content/plugins/popup-maker/assets/css/admin-popup-editor.min.css
 0 1 0 1054 0 0 0 0
 /wp-content/themes/oceanwp/assets/css/third/elementor-editor.min.css
-0 5 0 1960 0 0 0 0
+0 6 0 2523 0 0 0 0
 /wp-json/
-0 2 15 54632 0 0 0 0
+0 2 0 54632 0 0 0 0
 /wp-includes/js/tinymce/wp-tinymce.php
-0 3 0 625652 0 1 0 0
+0 4 0 835396 0 1 0 0
 /wp-content/plugins/ocean-sticky-header/assets/css/style.min.css
-0 67 0 88598 0 0 0 0
+0 78 0 104103 0 0 0 0
 /wp-content/uploads/2018/08/Mautoserviss-1-300x64.png
 1 5 0 35001 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/js/customize-preview.min.js
-0 2 0 43905 0 0 0 0
+0 3 0 66270 0 0 0 0
 /wp-includes/js/customize-preview-widgets.min.js
-0 2 0 5907 0 0 0 0
+0 3 0 9077 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
-0 66 0 207022 0 0 0 0
+0 75 0 234940 0 0 0 0
 /wp-admin/post.php
-0 51 0 13470860 1 0 0 0
+0 55 0 14676477 1 0 0 0
 /wp-admin/js/widgets/media-audio-widget.min.js
-0 6 0 5982 0 0 0 0
+0 7 0 7148 0 0 0 0
 /wp-includes/js/underscore.min.js
-0 3 0 18416 0 0 0 0
+0 4 0 24762 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/admin-builder.js
-0 1 0 20108 0 0 0 0
+0 2 0 40463 0 0 0 0
 /wp-admin/js/widgets/media-image-widget.min.js
-0 6 0 6929 0 0 0 0
+0 7 0 8253 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/choices.min.js
-0 1 0 18740 0 0 0 0
+0 2 0 37727 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/buttonset.min.js
-0 2 0 953 0 0 0 0
+0 3 0 1617 0 0 0 0
 /wp-includes/wlwmanifest.xml
-0 2 72 1641 0 0 0 0
+0 2 0 1641 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js
-0 6 0 14387 0 0 0 0
+0 7 0 16983 0 0 0 0
 /wp-includes/js/tinymce/skins/wordpress/wp-content.css
-0 4 0 11928 0 0 0 0
+0 5 0 15126 0 0 0 0
 /wp-includes/css/editor.min.css
-0 5 0 30583 0 0 0 0
+0 6 0 36899 0 0 0 0
 /wp-content/plugins/popup-maker//assets/images/upsell-icon-forced-interaction.png
 1 1 0 1688 0 0 0 0
 /wp-content/plugins/ocean-sticky-header/includes/customizer.min.js
-0 2 0 2819 0 0 0 0
+0 3 0 4554 0 0 0 0
 /wp-content/plugins/popup-maker/assets/css/site.min.css
-0 5 0 11087 0 0 0 0
+0 6 0 13486 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js
-0 71 0 287974 0 0 0 0
+0 81 0 328782 0 0 0 0
 /en/feed/
 0 2 0 2138 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff2
-0 59 0 3101574 0 0 0 0
+0 67 0 3490720 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf
-0 8 0 163960 0 0 0 0
+0 9 0 218517 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js
-0 69 0 1864201 0 0 0 0
+0 78 0 2100892 0 0 0 0
 /wp-content/uploads/elementor/css/post-372.css
-0 87 0 72592 0 0 0 0
+0 97 0 82666 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/admin-builder-conditional-logic-core.css
-0 1 0 923 0 0 0 0
+0 2 0 2005 0 0 0 0
 /wp-admin/css/media.min.css
-0 6 0 27650 0 0 0 0
+0 7 0 32456 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic-favicon-285x300.png
 1 2 0 49242 0 0 0 0
 /wp-content/uploads/2018/07/24-hours-delivery-1.svg
-0 64 0 236480 0 0 0 0
+0 75 0 289044 0 0 0 0
 /wp-content/uploads/elementor/css/post-430.css
-0 65 0 308982 0 0 0 0
+0 69 0 326924 0 0 0 0
 /wp-content/uploads/2018/08/FB-STASTIKA-2.jpg
-1 40 0 1139334 0 0 0 0
+1 47 0 2029243 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/sortable.min.css
-0 3 0 1511 0 0 0 0
-/wp-content/plugins/wpforms-lite/assets/css/jquery-confirm.min.css
-0 1 0 3717 0 0 0 0
+0 4 0 2193 0 0 0 0
 /wp-content/uploads/elementor/css/custom-frontend.min.css
-0 69 0 892962 0 0 0 0
-/wp-content/plugins/wpforms-lite/assets/js/admin-builder-providers.js
-0 1 0 3439 0 0 0 0
+0 79 0 1020684 0 0 0 0
+/wp-content/plugins/wpforms-lite/assets/css/jquery-confirm.min.css
+0 2 0 7760 0 0 0 0
 /wp-content/plugins/elementor/assets/css/editor-preview.min.css
-0 5 0 48965 0 0 0 0
+0 6 0 58987 0 0 0 0
+/wp-content/plugins/wpforms-lite/assets/js/admin-builder-providers.js
+0 2 0 7067 0 0 0 0
 /wp-admin/
-0 15 0 295432 1 1 0 0
-/wp-content/plugins/smart-slider-3/nextend/media/dist/system-backend.min.js
-0 6 0 89303 0 0 0 0
+0 17 0 335578 1 1 0 0
 /wp-includes/js/codemirror/jshint.js
-0 5 0 224645 0 0 0 0
+0 6 0 269919 0 0 0 0
+/wp-content/plugins/smart-slider-3/nextend/media/dist/system-backend.min.js
+0 7 0 104423 0 0 0 0
 /wp-content/uploads/2018/07/Mautoserviss-150x56.png
 1 2 0 6157 0 0 0 0
 /wp-content/uploads/2018/08/FB-STASTIKA-300x177.jpg
 1 2 0 9922 0 0 0 0
 /en/
-0 72 0 1407259 1 0 0 0
+0 77 0 1533506 1 2 0 0
 /wp-admin/load-styles.php
-0 21 0 1313613 0 0 0 0
+0 30 0 1935980 0 0 0 0
 /wp-content/uploads/2018/07/Galerijas-fons-300x161.jpg
 1 2 0 15105 0 0 0 0
 /wp-content/plugins/elementor/assets/js/admin.min.js
-0 10 0 41343 0 0 0 0
+0 12 0 50063 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/dist/smartslider-backend.min.js
-0 6 0 422454 0 0 0 0
+0 7 0 493815 0 0 0 0
 /wp-content/uploads/2018/08/Galerijas-fons.jpg
-1 54 0 7324168 0 0 0 0
+1 69 0 14654927 0 0 0 0
 /wp-content/plugins/popup-maker/assets/js/admin-popup-editor.min.js
 0 1 0 5100 0 0 0 0
 /wp-content/uploads/2018/08/Mlogistic_logo-Burti-300x122.png
@@ -390,9 +390,9 @@
 /wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
 0 2 0 131646 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/normalize.min.css
-0 5 0 6120 0 0 0 0
+0 6 0 7515 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/perfect-scrollbar/perfect-scrollbar.jquery.min.js
-0 6 0 41525 0 0 0 0
+0 7 0 48644 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/images/stars-small.png
 1 1 0 816 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.svg
@@ -400,203 +400,203 @@
 /wp-includes/fonts/dashicons.svg
 0 2 0 96468 0 0 0 0
 /wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css
-0 70 0 202370 0 0 0 0
+0 79 0 234763 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/admin/dist/smartslider-backend.min.css
-0 6 0 87648 0 0 0 0
+0 7 0 102483 0 0 0 0
 /wp-content/plugins/wpforms-lite/lite/assets/js/admin-builder-lite.js
-0 1 0 1156 0 0 0 0
+0 2 0 2472 0 0 0 0
 /wp-content/plugins/elementor/assets/css/editor.min.css
-0 6 0 94241 0 0 0 0
+0 7 0 110175 0 0 0 0
 /wp-includes/js/mediaelement/mediaelement-and-player.min.js
-0 6 0 230736 0 0 0 0
+0 7 0 269506 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/metabox/controls/assets/js/butterbean.min.js
-0 1 0 1168 0 0 0 0
+0 2 0 2551 0 0 0 0
 /wp-includes/js/zxcvbn.min.js
 0 1 0 400303 0 0 0 0
 /wp-content/plugins/polylang/flags/ru.png
 1 1 0 688 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/general.min.js
-0 3 0 2123 0 0 0 0
+0 4 0 3009 0 0 0 0
 /wp-includes/js/imagesloaded.min.js
-0 67 0 193111 0 0 0 0
+0 76 0 220120 0 0 0 0
 /wp-content/uploads/2018/08/M-logistika-footer.svg
-0 66 0 1123763 0 0 0 0
+0 77 0 1338657 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2
-0 6 0 78182 0 0 0 0
+0 7 0 155836 0 0 0 0
 /favicon.ico
-0 10 0 1914 0 0 0 0
+0 11 0 2340 0 0 0 0
 /wp-content/uploads/2018/08/Mautoserviss.jpg
 1 10 0 1162194 0 0 0 0
 /wp-includes/js/codemirror/codemirror.min.js
-0 5 0 911931 0 0 0 0
+0 6 0 1096344 0 0 0 0
 /wp-content/plugins/popup-maker/assets/js/mce-buttons.min.js
-0 1 0 653 0 0 0 0
+0 2 0 1521 0 0 0 0
 /wp-includes/js/imgareaselect/imgareaselect.css
-0 7 0 4038 0 0 0 0
+0 8 0 4920 0 0 0 0
 /wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css
-0 68 0 133374 0 0 0 0
+0 79 0 161886 0 0 0 0
 /wp-content/uploads/2018/07/Mlogistic_logo-02-1-300x125.png
 1 2 0 20224 0 0 0 0
 /wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-paypal.png
-1 1 0 22357 0 0 0 0
+1 2 0 44874 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/radio-image.min.js
-0 2 0 955 0 0 0 0
+0 3 0 1620 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/multicheck.min.js
-0 2 0 1085 0 0 0 0
-/wp-content/plugins/popup-maker//assets/images/admin/icon-info-21x21.png
-1 6 0 7038 0 0 0 0
+0 3 0 1815 0 0 0 0
 /wp-includes/css/admin-bar.min.css
-0 6 0 25333 0 0 0 0
+0 8 0 34173 0 0 0 0
+/wp-content/plugins/popup-maker//assets/images/admin/icon-info-21x21.png
+1 8 0 11700 0 0 0 0
 /wp-content/uploads/pum/pum-site-styles.css
-0 99 0 350478 0 0 0 0
+0 108 0 382950 0 0 0 0
 /wp-content/uploads/2018/08/Mtransfer-300x64.jpg
 1 2 0 8791 0 0 0 0
 /wp-includes/js/media-audiovideo.min.js
-0 6 0 22301 0 0 0 0
-/wp-content/themes/oceanwp/inc/customizer/assets/img/ls.png
-1 3 0 1070 0 0 0 0
+0 7 0 26216 0 0 0 0
 /wp-includes/js/wp-ajax-response.min.js
-0 2 0 2541 0 0 0 0
+0 3 0 3999 0 0 0 0
+/wp-content/themes/oceanwp/inc/customizer/assets/img/ls.png
+1 4 0 1576 0 0 0 0
 /wp-admin/admin.php
-0 99 0 3238569 0 1 0 0
+0 107 0 3515940 0 1 0 0
 /wp-content/plugins/ocean-extra/includes/menu-icons/js/admin.min.js
 0 3 0 8555 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/admin/images/logo.png
 1 1 0 3878 0 0 0 0
 /wp-content/uploads/2018/07/Logistic-Partners-08.svg
-0 64 0 618190 0 0 0 0
+0 74 0 739314 0 0 0 0
 /wp-content/uploads/2018/07/Bilde1-Big-300x147.jpg
 1 2 0 17791 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.matchHeight-min.js
-0 1 0 1718 0 0 0 0
+0 2 0 3596 0 0 0 0
 /wp-content/themes/oceanwp/assets/js/main.min.js
-0 66 0 2244309 0 0 0 0
+0 75 0 2544846 0 0 0 0
 /wp-includes/js/tinymce/skins/lightgray/skin.min.css
-0 4 0 34842 0 0 0 0
+0 6 0 52754 0 0 0 0
 /wp-json/oembed/1.0/embed
-0 16 275 26616 0 0 0 0
+0 16 0 26616 0 0 0 0
 /wp-includes/js/jquery/ui/droppable.min.js
-0 3 0 6851 0 0 0 0
+0 4 0 9313 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-backend.min.css
-0 7 0 137776 0 0 0 0
+0 8 0 157713 0 0 0 0
 /wp-content/uploads/2018/08/Galerijas-fons-300x161.jpg
 1 7 0 18034 0 0 0 0
 /wp-content/plugins/popup-maker/assets/js/admin-general.min.js
-0 1 0 30715 0 0 0 0
+0 2 0 61761 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/controls/select2.min.css
-0 3 0 6869 0 0 0 0
+0 4 0 9337 0 0 0 0
 /.well-known/acme-challenge/GE8mi4_wVR-Lji6pHfVsxbX5MRQkGq44gHoeUNM8dbo
 0 1 0 294 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic-300x64.jpg
 1 2 0 3012 0 0 0 0
 /wp-content/uploads/2018/08/M-transfer-footer.svg
-0 65 0 1023498 0 0 0 0
+0 76 0 1224024 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/elusive.min.css
 0 3 0 7974 0 0 0 0
 /wp-includes/js/hoverIntent.min.js
-0 65 0 54101 0 0 0 0
+0 74 0 62849 0 0 0 0
 /wp-content/plugins/polylang/css/selectmenu.min.css
 0 1 0 1070 0 0 0 0
 /wp-content/plugins/elementor/assets/js/admin-feedback.min.js
 0 1 0 1292 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/admin-builder.css
-0 1 0 3373 0 0 0 0
+0 2 0 6934 0 0 0 0
 /wp-includes/js/imgareaselect/border-anim-v.gif
 1 1 0 445 0 0 0 0
 /wp-content/plugins/polylang/js/post.min.js
-0 3 0 6021 0 0 0 0
+0 4 0 8344 0 0 0 0
 /wp-content/uploads/2018/08/Busina-Dibens-266x300.jpg
 1 2 0 10637 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.minicolors.min.js
-0 1 0 5028 0 0 0 0
+0 2 0 10245 0 0 0 0
 /wp-content/plugins/megamenu/js/maxmegamenu.js
-0 66 0 268138 0 0 0 0
+0 76 0 308618 0 0 0 0
 /wp-content/plugins/ocean-extra//includes/widgets/js/mailchimp.min.js
-0 66 0 63156 0 0 0 0
+0 76 0 74146 0 0 0 0
 /wp-includes/images/media/default.png
 1 2 0 815 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot
 0 2 0 54848 0 0 0 0
 /wp-admin/edit.php
-0 15 0 253242 0 0 0 0
+0 16 0 272114 0 0 0 0
 /wp-includes/js/jquery/ui/draggable.min.js
-0 3 0 15980 0 0 0 0
+0 4 0 21514 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css
-0 62 0 342177 0 0 0 0
-/wp-content/plugins/smart-slider-3/library/media/admin/images/widgetdisabled.png
-1 1 0 2063 0 0 0 0
+0 74 0 405525 0 0 0 0
 /wp-content/uploads/2018/08/Mtransfer-300x64.png
 1 2 0 30309 0 0 0 0
+/wp-content/plugins/smart-slider-3/library/media/admin/images/widgetdisabled.png
+1 1 0 2063 0 0 0 0
 /wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-stripe.png
-1 1 0 32906 0 0 0 0
+1 2 0 65972 0 0 0 0
 /wp-admin/js/widgets/custom-html-widgets.min.js
-0 7 0 15877 0 0 0 0
-/wp-includes/js/media-editor.min.js
-0 5 0 19785 0 0 0 0
+0 8 0 18313 0 0 0 0
 /wp-content/uploads/2018/08/M-autoserviss-footer.svg
-0 65 0 1315747 0 0 0 0
+0 76 0 1573297 0 0 0 0
+/wp-includes/js/media-editor.min.js
+0 6 0 23942 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/range.min.js
-0 2 0 1755 0 0 0 0
+0 3 0 2820 0 0 0 0
 /wp-includes/css/dashicons.min.css
-0 77 0 2222829 0 0 0 0
+0 88 0 2550768 0 0 0 0
 /wp-content/uploads/2018/08/M-transfer-footer-1.svg
-0 11 0 174655 0 0 0 0
+0 13 0 199842 0 0 0 0
 /wp-content/plugins/polylang/js/admin.min.js
 0 1 0 1596 0 0 0 0
 /wp-includes/js/customize-base.min.js
-0 2 0 5659 0 0 0 0
+0 3 0 8705 0 0 0 0
 /wp-content/uploads/2018/08/M-riepas-footer.svg
-0 66 0 1187235 0 0 0 0
+0 77 0 1404017 0 0 0 0
 /wp-includes/js/mediaelement/wp-mediaelement.min.css
-0 5 0 7348 0 0 0 0
+0 6 0 9126 0 0 0 0
 /wp-content/plugins/megamenu/css/admin/global.css
-0 8 0 5242 0 0 0 0
+0 10 0 6806 0 0 0 0
 /wp-includes/js/mediaelement/mediaelement-migrate.min.js
-0 5 0 4366 0 0 0 0
+0 6 0 5410 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/images/icon-provider-constant-contact.png
-1 1 0 6363 0 0 0 0
+1 2 0 12857 0 0 0 0
 /wp-content/plugins/replain//assets/img/replain-logo-white.svg
-0 8 0 9930 0 0 0 0
+0 11 0 15048 0 0 0 0
 /wp-content/themes/twentyseventeen/screenshot.png
 1 1 0 364107 0 0 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 76 0 335922 0 0 0 0
 /wp-content/uploads/2018/08/Mriepas-1-300x64.jpg
 1 7 0 8208 0 0 0 0
-/wp-includes/js/jquery/jquery-migrate.min.js
-0 66 0 290542 0 0 0 0
 /wp-content/plugins/popup-maker//assets/images/logo.png
 1 1 0 7171 0 0 0 0
 /wp-content/uploads/2018/08/Titulbilde-2.jpg
-1 72 0 22051393 0 0 0 0
+1 83 0 26421517 0 0 0 0
 /.well-known/acme-challenge/lh21-7Az8Xw-uuRUQnoT6lDqiJOk_NvVmk_HRJC0pnk
 0 1 0 294 0 0 0 0
-/wp-admin/post-new.php
-0 2 0 97206 0 0 0 0
 /wp-content/themes/oceanwp/inc/walker/assets/menus.css
 0 3 0 1398 0 0 0 0
+/wp-admin/post-new.php
+0 2 0 97206 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/heading.min.css
-0 2 0 1045 0 0 0 0
+0 3 0 1893 0 0 0 0
 /wp-content/uploads/elementor/css/post-563.css
-0 11 0 10371 0 0 0 0
+0 14 0 17951 0 0 0 0
 /wp-content/plugins/megamenu/js/colorbox/colorbox.css
 0 3 0 5681 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/color.min.js
-0 3 0 4382 0 0 0 0
+0 4 0 6021 0 0 0 0
 /wp-includes/js/jquery/ui/core.min.js
-0 61 0 133357 0 0 0 0
+0 70 0 154192 0 0 0 0
 /wp-admin/images/browser.png
-1 2 0 81739 0 0 0 0
+1 3 0 122825 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/js/icon-picker.min.js
 0 3 0 11804 0 0 0 0
 /wp-includes/js/wp-util.min.js
-0 2 0 1761 0 0 0 0
+0 3 0 2829 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic-2-300x64.jpg
 1 9 0 5812 0 0 0 0
 /wp-includes/js/mediaelement/wp-playlist.min.js
-0 2 0 2901 0 0 0 0
+0 3 0 4539 0 0 0 0
 /wp-content/plugins/polylang/flags/lv.png
 1 1 0 733 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/controls/select2.min.js
-0 3 0 65639 0 0 0 0
+0 4 0 87784 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.min.css
 0 3 0 11258 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf
@@ -604,109 +604,109 @@
 /wp-content/uploads/2018/07/Mautoserviss-1-150x56.png
 1 2 0 6157 0 0 0 0
 /wp-login.php
-0 44 0 109707 1 2 0 0
+0 47 0 126155 1 2 0 0
 /wp-content/uploads/2018/07/Baltic-Ship-1-150x148.png
 1 2 0 21035 0 0 0 0
 /wp-includes/js/backbone.min.js
-0 2 0 15687 0 0 0 0
+0 3 0 23747 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.woff
-0 8 0 295872 0 0 0 0
+0 9 0 394456 0 0 0 0
 /wp-admin/css/color-picker.min.css
-0 6 0 6854 0 0 0 0
+0 7 0 8165 0 0 0 0
 /ru/
-0 90 0 2086886 6 1 0 0
+0 99 0 2287995 6 1 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 6 0 24849 0 0 0 0
+/wp-content/uploads/2018/08/mlogistic-1.jpg
+1 18 0 349438 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/slick/slick.ttf
 0 2 0 2454 0 0 0 0
-/wp-content/uploads/2018/08/mlogistic-1.jpg
-1 17 0 349243 0 0 0 0
-/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
-0 5 0 20541 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-backgroundanimation.min.js
-0 69 0 362920 0 0 0 0
-/wp-content/plugins/elementor/assets/lib/wp-color-picker/wp-color-picker-alpha.min.js
-0 6 0 17225 0 0 0 0
+0 77 0 404560 0 0 0 0
 /wp-admin/js/widgets/media-widgets.min.js
-0 6 0 30419 0 0 0 0
+0 7 0 35687 0 0 0 0
+/wp-content/plugins/elementor/assets/lib/wp-color-picker/wp-color-picker-alpha.min.js
+0 7 0 20294 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/controls/color/transparency-grid.png
 1 1 0 2916 0 0 0 0
 /wp-content/uploads/2018/08/Shield-01.svg
-0 65 0 81581 0 0 0 0
+0 75 0 97785 0 0 0 0
 /wp-includes/js/jquery/jquery.js
-0 66 0 2282972 0 0 0 0
+0 75 0 2592644 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/sortable.min.js
-0 2 0 1263 0 0 0 0
+0 3 0 2082 0 0 0 0
 /wp-content/uploads/2018/08/Mriepas.jpg
 1 10 0 997421 0 0 0 0
 /wp-content/plugins/ocean-extra//includes/widgets/js/insta-admin.min.js
-0 8 0 6098 0 0 0 0
+0 9 0 6987 0 0 0 0
 /wp-includes/js/wp-embed.min.js
-0 66 0 72819 0 0 0 0
+0 77 0 86503 0 0 0 0
 /wp-includes/css/wp-pointer.min.css
-0 6 0 7493 0 0 0 0
+0 7 0 8911 0 0 0 0
 /wp-content/plugins/popup-maker/assets/js/site.min.js
 0 1 0 13798 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/metabox/controls/assets/js/wp-color-picker-alpha.js
-0 3 0 9091 0 0 0 0
+0 4 0 12328 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic-1-300x64.jpg
 1 10 0 5921 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/buttonset.min.css
-0 2 0 1153 0 0 0 0
+0 3 0 1917 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/smartslider.min.css
-0 70 0 250030 0 0 0 0
+0 80 0 285660 0 0 0 0
 /wp-content/uploads/2018/08/cropped-Mlogistic_logo-Burti-1.png
-1 17 0 154312 0 0 0 0
+1 19 0 176436 0 0 0 0
 /wp-content/plugins/popup-maker/includes/pum-sdk/freemius/assets/css/admin/common.css
 0 1 0 1245 0 0 0 0
 /wp-content/uploads/2018/07/placeholder-on-map-paper-in-perspective-1.svg
-0 64 0 113416 0 0 0 0
+0 74 0 136188 0 0 0 0
 /wp-includes/js/wp-emoji-release.min.js
-0 67 0 317773 0 0 0 0
-/wp-content/plugins/ocean-extra/includes/metabox/assets/js/metabox.min.js
-0 3 0 3171 0 0 0 0
+0 77 0 371938 0 0 0 0
 /wp-content/uploads/2018/08/Mautoserviss-300x64.jpg
 1 2 0 10359 0 0 0 0
+/wp-content/plugins/ocean-extra/includes/metabox/assets/js/metabox.min.js
+0 4 0 4406 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/admin-builder-conditional-logic-core.js
-0 1 0 4103 0 0 0 0
+0 2 0 8395 0 0 0 0
 /wp-admin/js/postbox.min.js
-0 3 0 5621 0 0 0 0
+0 4 0 7673 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2
-0 1 0 77407 0 0 0 0
+0 2 0 155061 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic-favicon-150x150.png
-1 35 0 528910 0 0 0 0
+1 43 0 677001 0 0 0 0
 /wp-content/plugins/megamenu/js/colorbox/jquery.colorbox-min.js
 0 3 0 26861 0 0 0 0
 /wp-content/uploads/elementor/css/post-154.css
 0 39 0 48562 0 0 0 0
 /wp-includes/js/tinymce/skins/lightgray/content.min.css
-0 5 0 8132 0 0 0 0
+0 6 0 9929 0 0 0 0
 /wp-content/plugins/popup-maker/assets/images/admin/popup-maker-icon.png
 1 1 0 2870 0 0 0 0
 /wp-content/uploads/2018/08/Mriepas-300x64.jpg
 1 2 0 10825 0 0 0 0
 /wp-content/uploads/2018/07/Logistic-Partners-09.svg
-0 64 0 416638 0 0 0 0
+0 74 0 498580 0 0 0 0
 /wp-includes/images/spinner.gif
 1 2 0 9148 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/color.min.css
-0 2 0 2493 0 0 0 0
+0 3 0 4065 0 0 0 0
 /wp-content/plugins/smart-slider-3/editor/shortcode.js
-0 1 0 627 0 0 0 0
+0 2 0 1469 0 0 0 0
 /wp-includes/js/mediaelement/wp-mediaelement.min.js
-0 6 0 4830 0 0 0 0
+0 7 0 5804 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.conditionals.min.js
-0 2 0 2532 0 0 0 0
+0 4 0 5384 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/admin-editor.js
-0 5 0 4181 0 0 0 0
+0 6 0 5188 0 0 0 0
 /wp-includes/js/thickbox/loadingAnimation.gif
-1 9 0 93756 0 0 0 0
+1 11 0 125036 0 0 0 0
 /ru/comments/feed/
 0 2 0 1867 0 0 0 0
 /xmlrpc.php
-0 2 1 1201 0 0 0 0
+0 2 0 1201 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/js/typography-customize-preview.min.js
-0 2 0 13323 0 0 0 0
+0 3 0 20339 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/metabox/butterbean/js/butterbean.min.js
-0 1 0 1988 0 0 0 0
+0 2 0 4191 0 0 0 0
 /wp-includes/js/quicktags.min.js
 0 1 0 3893 0 0 0 0
 /wp-content/uploads/2018/08/Mriepas-300x64.png
@@ -714,49 +714,49 @@
 /wp-content/themes/oceanwp/assets/fonts/slick/slick.eot
 0 4 0 5252 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/slick/slick.min.js
-0 5 0 53836 0 0 0 0
+0 6 0 64832 0 0 0 0
 /wp-content/plugins/polylang/js/nav-menu.min.js
 0 3 0 2981 0 0 0 0
 /wp-includes/js/api-request.min.js
-0 6 0 4439 0 0 0 0
+0 7 0 5348 0 0 0 0
 /wp-content/plugins/ocean-sticky-header/assets/js/main.min.js
-0 65 0 108034 0 0 0 0
+0 74 0 123865 0 0 0 0
 /wp-content/plugins/elementor/assets/js/frontend.min.js
-0 67 0 730831 0 0 0 0
+0 77 0 839341 0 0 0 0
 /wp-admin/images/wordpress-logo.svg
-0 6 0 10971 0 0 0 0
+0 8 0 14821 0 0 0 0
 /wp-content/uploads/elementor/css/post-8.css
-0 173 0 800293 0 0 0 0
+0 191 0 884195 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/tooltipster.css
-0 1 0 2015 0 0 0 0
+0 2 0 4189 0 0 0 0
 /wp-content/uploads/2018/07/Kukotava-1-150x33.png
 1 2 0 13711 0 0 0 0
 /wp-content/uploads/elementor/css/global.css
-0 65 0 66386 0 0 0 0
+0 75 0 77624 0 0 0 0
 /wp-admin/js/media-upload.min.js
 0 1 0 919 0 0 0 0
 /wp-content/plugins/smart-slider-3/editor/editor.min.css
-0 5 0 5535 0 0 0 0
+0 6 0 6813 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/icon-select.min.css
-0 2 0 1249 0 0 0 0
+0 3 0 2061 0 0 0 0
 /wp-admin/js/widgets/text-widgets.min.js
-0 5 0 11990 0 0 0 0
+0 6 0 14588 0 0 0 0
 /wp-includes/js/wplink.min.js
 0 1 0 4309 0 0 0 0
 /wp-content/uploads/2018/08/Titulbilde-1-300x173.jpg
 1 2 0 10221 0 0 0 0
 /wp-content/plugins/elementor/assets/js/editor.min.js
-0 5 0 297875 0 0 0 0
+0 6 0 357864 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/admin-builder-providers.css
-0 1 0 1085 0 0 0 0
+0 2 0 2330 0 0 0 0
 /wp-content/plugins/popup-maker/assets/css/admin-shortcode-ui.min.css
-0 1 0 431 0 0 0 0
-/wp-content/plugins/wpforms-lite//assets/images/recaptcha-placeholder.png
-1 1 0 7051 0 0 0 0
+0 2 0 1077 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js
-0 6 0 11357 0 0 0 0
+0 7 0 13419 0 0 0 0
+/wp-content/plugins/wpforms-lite//assets/images/recaptcha-placeholder.png
+1 2 0 14233 0 0 0 0
 /
-0 269 0 5668735 58 24 0 0
+0 306 0 6492690 71 29 0 0
 /wp-content/uploads/2018/07/Baltic-Ship-150x148.png
 1 2 0 21035 0 0 0 0
 /wp-admin/nav-menus.php
@@ -764,109 +764,109 @@
 /wp-content/plugins/smart-slider-3/images/icon20x.png
 1 1 0 2030 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js
-0 70 0 76437 0 0 0 0
+0 80 0 88767 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/img/fw.png
-1 3 0 1031 0 0 0 0
+1 4 0 1524 0 0 0 0
 /wp-content/uploads/2018/08/Layer-1-300x82.png
 1 2 0 20245 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js
-0 6 0 70559 0 0 0 0
+0 7 0 82546 0 0 0 0
 /wp-content/uploads/2018/07/2Bilde-300x173.jpg
 1 2 0 9871 0 0 0 0
 /wp-content/uploads/elementor/css/post-440.css
-0 53 0 301507 0 0 0 0
+0 60 0 332896 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2
-0 59 0 1216893 0 0 0 0
+0 67 0 1370101 0 0 0 0
 /wp-includes/js/mediaelement/renderers/vimeo.min.js
-0 2 0 5059 0 0 0 0
-/en/comments/feed/
-0 2 0 1679 0 0 0 0
+0 3 0 7805 0 0 0 0
 /wp-content/plugins/ocean-extra/assets/img/flickr.png
 1 2 0 658 0 0 0 0
+/en/comments/feed/
+0 2 0 1679 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/admin/images/free/why-upgrade.png
 1 1 0 43309 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js
-0 68 0 2060697 0 0 0 0
+0 78 0 2362567 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/images/stars-big.png
 1 1 0 4658 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/slider.min.js
-0 2 0 1523 0 0 0 0
+0 3 0 2472 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js
-0 66 0 2151808 0 0 0 0
+0 77 0 2503093 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/dimensions.min.css
-0 2 0 1459 0 0 0 0
+0 3 0 2376 0 0 0 0
 /wp-content/themes/oceanwp/assets/css/editor-style.min.css
-0 4 0 2080 0 0 0 0
+0 7 0 4339 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/text.min.js
-0 3 0 1577 0 0 0 0
+0 4 0 2281 0 0 0 0
 /wp-includes/js/codemirror/csslint.js
-0 4 0 271038 0 0 0 0
+0 5 0 339754 0 0 0 0
 /wp-admin/images/spinner-2x.gif
 1 5 0 18053 0 0 0 0
 /wp-content/plugins/smart-slider-3/library/media/plugins/widgetarrow/image/image/imageSmallRectangle.png
 1 1 0 778 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/admin-builder-fields.css
-0 1 0 5167 0 0 0 0
+0 2 0 10523 0 0 0 0
 /wp-content/plugins/replain//assets/css/replain-wp-toolbar-link.css
-0 8 0 7005 0 0 0 0
+0 9 0 8109 0 0 0 0
 /wp-content/plugins/megamenu/css/admin/admin.css
 0 3 0 30378 0 0 0 0
-/wp-content/themes/oceanwp/inc/customizer/assets/min/css/range.min.css
-0 3 0 2813 0 0 0 0
 /wp-admin/js/widgets/media-video-widget.min.js
-0 5 0 7455 0 0 0 0
+0 6 0 9117 0 0 0 0
+/wp-content/themes/oceanwp/inc/customizer/assets/min/css/range.min.css
+0 4 0 3929 0 0 0 0
 /comments/feed/
-0 2 48 1700 0 0 0 0
+0 2 0 1700 0 0 0 0
 /wp-content/plugins/polylang/js/user.min.js
 0 1 0 513 0 0 0 0
 /wp-content/plugins/popup-maker/assets/css/admin-general.min.css
-0 1 0 6121 0 0 0 0
+0 2 0 12486 0 0 0 0
 /kontakti/
 0 50 0 673246 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/wpforms.js
-0 59 0 422539 0 0 0 0
+0 69 0 493599 0 0 0 0
 /wp-includes/js/admin-bar.min.js
-0 6 0 16776 0 0 0 0
+0 7 0 19770 0 0 0 0
 /wp-includes/fonts/dashicons.ttf
-0 2 4 42294 0 0 0 0
+0 2 0 42294 0 0 0 0
 /wp-includes/js/jquery/jquery.color.min.js
-0 3 0 12704 0 0 0 0
+0 4 0 17146 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
-0 68 0 251247 0 0 0 0
+0 79 0 293168 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/fonts/Nextend.ttf
 0 1 0 44400 0 0 0 0
 /wp-content/plugins/popup-maker/assets/js/admin-marketing.min.js
-0 7 0 3640 0 0 0 0
+0 9 0 5108 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/textarea.min.js
-0 2 0 981 0 0 0 0
+0 3 0 1659 0 0 0 0
 /wp-content/themes/oceanwp/assets/css/style.min.css
-0 68 0 1738705 0 0 0 0
+0 77 0 1961499 0 0 0 0
+/wp-includes/css/media-views.min.css
+0 7 0 55599 0 0 0 0
+/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-campaign-monitor.png
+1 2 0 4157 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.ttf
 0 2 0 166118 0 0 0 0
-/wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-campaign-monitor.png
-1 1 0 2013 0 0 0 0
-/wp-includes/css/media-views.min.css
-0 6 0 47487 0 0 0 0
 /wp-includes/css/wp-auth-check.min.css
-0 5 0 5395 0 0 0 0
+0 6 0 6656 0 0 0 0
 /wp-includes/js/jquery/ui/accordion.min.js
 0 3 0 9071 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff
 0 2 0 81900 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/dimensions.min.js
-0 2 0 1611 0 0 0 0
+0 3 0 2604 0 0 0 0
+/wp-content/themes/oceanwp/inc/customizer/assets/min/css/typography.min.css
+0 3 0 1599 0 0 0 0
 /wp-content/plugins/popup-maker/assets/js/admin-deprecated.min.js
 0 1 0 499 0 0 0 0
-/wp-content/themes/oceanwp/inc/customizer/assets/min/css/typography.min.css
-0 2 0 941 0 0 0 0
 /wp-content/uploads/2018/08/FB-STASTIKA-2-300x177.jpg
 1 8 0 20664 0 0 0 0
 /wp-content/uploads/2018/08/Mtransfer-1.jpg
-1 18 0 961036 0 0 0 0
+1 19 0 961231 0 0 0 0
 /wp-admin/js/nav-menu.min.js
-0 3 0 19670 0 0 0 0
+0 4 0 26434 0 0 0 0
 /wp-content/uploads/elementor/css/post-419.css
-0 24 0 33103 0 0 0 0
+0 25 0 34555 0 0 0 0
 /wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/genericons.min.css
 0 3 0 49161 0 0 0 0
 /wp-admin/profile.php
@@ -874,11 +874,11 @@
 /wp-content/uploads/2018/08/Mtransfer-1-300x64.jpg
 1 3 0 6935 0 0 0 0
 /wp-content/uploads/2018/08/Mautoserviss-1.png
-1 18 0 2908638 0 0 0 0
+1 19 0 2908833 0 0 0 0
 /feed/
-0 2 65 2067 0 0 0 0
+0 2 0 2067 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/radio-image.min.css
-0 2 0 1103 0 0 0 0
+0 3 0 1842 0 0 0 0
 /wp-content/uploads/2018/08/Mlogistic_logo-Big-Burti-300x122.png
 1 2 0 14355 0 0 0 0
 /wp-admin/async-upload.php
@@ -888,89 +888,89 @@
 /wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg
 0 2 0 187495 0 0 0 0
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
-0 6 0 44189 0 0 0 0
+0 7 0 51752 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/textarea.min.css
-0 2 0 813 0 0 0 0
+0 3 0 1407 0 0 0 0
 /wp-includes/js/customize-selective-refresh.min.js
-0 3 0 12005 0 0 0 0
+0 4 0 16214 0 0 0 0
 /wp-includes/images/uploader-icons-2x.png
 1 2 0 3920 0 0 0 0
 /wp-includes/js/mce-view.min.js
-0 5 0 20356 0 0 0 0
+0 6 0 24627 0 0 0 0
 /wp-includes/fonts/dashicons.eot
-0 2 2140 23031 0 0 0 0
+0 2 0 23031 0 0 0 0
 /wp-content/uploads/2018/08/Mautoserviss-150x56.png
 1 2 0 12039 0 0 0 0
 /wp-cron.php
-0 47 0 40760 32 31 0 0
+0 62 0 117035 44 43 0 0
 /wp-content/plugins/elementor/assets/images/logo-panel.svg
-0 5 0 19315 0 0 0 0
+0 6 0 28883 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/admin.min.css
-0 1 0 10229 0 0 0 0
+0 2 0 20675 0 0 0 0
 /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-0 6 0 17385 0 0 0 0
+0 8 0 23713 0 0 0 0
 /wp-includes/js/wp-a11y.min.js
-0 5 0 3480 0 0 0 0
+0 6 0 4347 0 0 0 0
 /wp-content/plugins/ocean-extra//includes/widgets/js/share.min.js
-0 68 0 35607 0 0 0 0
+0 78 0 42287 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.insert-at-caret.min.js
-0 1 0 829 0 0 0 0
+0 2 0 1818 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg
 0 2 0 239599 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic-2.jpg
-1 8 0 209329 0 0 0 0
+1 9 0 279076 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/builder.min.css
-0 1 0 3535 0 0 0 0
+0 2 0 7258 0 0 0 0
 /wp-content/themes/twentysixteen/screenshot.png
 1 1 0 463829 0 0 0 0
-/wp-content/plugins/elementor/assets/lib/tipsy/tipsy.min.js
-0 6 0 12215 0 0 0 0
 /wp-admin/admin-ajax.php
-0 2616 0 2192473 13 20 0 0
+0 3350 0 3156044 14 23 0 0
+/wp-content/plugins/elementor/assets/lib/tipsy/tipsy.min.js
+0 7 0 14420 0 0 0 0
 /wp-includes/js/media-views.min.js
-0 7 0 160154 0 0 0 0
+0 8 0 183288 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/js/icon-select.min.js
-0 2 0 945 0 0 0 0
+0 3 0 1605 0 0 0 0
 /wp-content/themes/oceanwp/inc/customizer/assets/min/css/slider.min.css
-0 2 0 1417 0 0 0 0
-/wp-content/uploads/2018/08/cropped-Mlogistic_logo-Burti-1-300x82.png
-1 3 0 16610 0 0 0 0
+0 3 0 2313 0 0 0 0
 /wp-content/plugins/popup-maker/assets/js/admin-shortcode-ui.min.js
-0 1 0 2242 0 0 0 0
+0 2 0 4699 0 0 0 0
+/wp-content/uploads/2018/08/cropped-Mlogistic_logo-Burti-1-300x82.png
+1 4 0 22296 0 0 0 0
 /wp-admin/js/image-edit.min.js
-0 6 0 22129 0 0 0 0
+0 7 0 26015 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic.jpg
 1 10 0 486941 0 0 0 0
 /wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js
-0 67 0 508520 0 0 0 0
+0 77 0 585180 0 0 0 0
 /en/contacts/
-0 37 0 502323 0 0 0 0
+0 38 0 514855 1 1 0 0
 /wp-admin/js/code-editor.min.js
-0 5 0 8266 0 0 0 0
+0 6 0 10090 0 0 0 0
 /wp-content/plugins/popup-maker/includes/pum-sdk/freemius/assets/css/admin/dialog-boxes.css
 0 1 0 2382 0 0 0 0
-/wp-content/plugins/wpforms-lite/assets/images/sullie-alt.png
-1 1 0 25151 0 0 0 0
 /wp-content/uploads/2018/08/mlogistic-favicon.png
-1 36 0 227498 0 0 0 0
+1 40 0 271320 0 0 0 0
+/wp-content/plugins/wpforms-lite/assets/images/sullie-alt.png
+1 2 0 50462 0 0 0 0
 /wp-admin/customize.php
-0 7 0 2164069 1 0 0 0
+0 8 0 2477446 1 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/slick/slick.svg
 0 2 0 2698 0 0 0 0
 /wp-content/themes/oceanwp/assets/fonts/fontawesome/fontawesome-webfont.eot
 0 4 0 332656 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/css/admin-builder-setup.css
-0 1 0 1312 0 0 0 0
+0 2 0 2783 0 0 0 0
 /ru/контакты/
-0 25 0 415280 0 0 0 0
+0 26 0 428871 0 0 0 0
 /wp-includes/js/jquery/ui/position.min.js
-0 66 0 194083 0 0 0 0
+0 76 0 224943 0 0 0 0
 /wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-webfontloader.min.js
-0 68 0 360255 0 0 0 0
+0 77 0 409107 0 0 0 0
 /wp-content/plugins/wpforms-lite/lite/assets/images/addon-icon-getresponse.png
-1 1 0 5666 0 0 0 0
+1 2 0 11463 0 0 0 0
 /wp-content/plugins/wpforms-lite/assets/js/admin-utils.js
-0 1 0 4348 0 0 0 0
+0 2 0 8885 0 0 0 0
 # End Of Table - urls
 # -sites- (monthly)
 213.87.146.37
@@ -983,22 +983,28 @@
 0 68 64 1584486 1 1534937577 0 0
 /
 89.201.16.192
-0 2946 2750 33769607 19 1535127288 0 0
+0 4473 4255 57295322 23 1535239365 0 0
 /wp-admin/admin-ajax.php
+66.102.9.134
+0 1 1 25698 1 1535191426 0 0
+/
 195.13.217.61
 0 1 1 105798 1 1534946555 0 0
 /ru/
 66.102.9.23
 0 1 0 570 1 1535120005 0 0
 /
+66.102.9.137
+0 1 0 570 1 1535191426 0 0
+/
 77.38.228.69
-0 675 577 11265830 7 1535114837 0 0
+0 679 580 11321959 9 1535220460 0 0
 /
 213.87.130.177
 0 34 31 415215 1 1535120168 0 0
 /wp-login.php
 66.102.9.138
-0 1 1 24134 1 1535120005 0 0
+0 2 2 44015 1 1535120005 0 0
 /
 80.255.229.252
 0 72 72 2201607 1 1535027014 0 0
@@ -1006,6 +1012,9 @@
 77.219.1.152
 0 131 112 1997593 1 1534955635 0 0
 /
+185.13.112.79
+0 2 2 39792 0 0 0 0
+-
 213.87.159.89
 0 55 52 576361 2 1534944492 0 0
 /wp-admin/admin-ajax.php
@@ -1031,11 +1040,11 @@
 0 2 1 27903 1 1535116723 0 0
 /
 193.105.166.15
-0 47 47 40760 32 1535151372 0 0
+0 62 62 117035 44 1535236730 0 0
 /wp-cron.php
 77.219.15.30
-0 188 134 3569461 4 1535151505 0 0
-/en/
+0 266 191 5989705 6 1535209363 0 0
+/
 212.3.199.69
 0 205 200 5121904 4 1534955519 0 0
 /
@@ -1067,13 +1076,13 @@
 0 2 2 233951 1 1535113716 0 0
 /
 95.170.73.141
-0 18 9 328897 4 1535126209 0 0
+0 24 12 406838 6 1535225717 0 0
 /
 87.149.77.110
 0 69 67 1635859 1 1535131201 0 0
 /
 95.170.73.143
-0 6 6 107688 0 0 0 0
+0 9 9 166224 0 0 0 0
 -
 195.13.217.44
 0 1 0 111 0 0 0 0
@@ -1086,6 +1095,9 @@
 /
 77.219.7.9
 0 65 65 1591633 1 1535034478 0 0
+/
+82.193.79.132
+0 88 67 2653027 2 1535207604 0 0
 /
 185.13.112.67
 0 287 274 9352977 1 1535092312 0 0
@@ -1102,80 +1114,50 @@
 87.110.26.222
 0 73 72 1690050 1 1535013504 0 0
 /
+80.89.79.234
+0 66 65 1611932 1 1535157308 0 0
+/
 80.89.76.202
 0 131 130 3183362 2 1534961767 0 0
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
 89.201.16.192
-0 582 519 7561313 3 1535127288 0 0
+0 1527 1505 23525715 4 1535239365 0 0
 /wp-admin/admin-ajax.php
-66.102.9.23
-0 1 0 570 1 1535120005 0 0
+66.102.9.134
+0 1 1 25698 1 1535191426 0 0
+/
+66.102.9.137
+0 1 0 570 1 1535191426 0 0
 /
 77.38.228.69
-0 275 255 5885986 1 1535114837 0 0
+0 4 3 56129 2 1535220460 0 0
 /
-213.87.130.177
-0 34 31 415215 1 1535120168 0 0
-/wp-login.php
 66.102.9.138
-0 1 1 24134 1 1535120005 0 0
-/
-80.89.79.16
-0 86 85 1773201 2 1535151923 0 0
-/
-204.187.14.75
-0 69 69 1644646 1 1535105713 0 0
-/
-66.133.109.36
-0 2 2 588 0 0 0 0
+0 1 1 19881 0 0 0 0
 -
-213.100.170.176
-0 142 138 3549711 1 1535104608 0 0
+185.13.112.79
+0 2 2 39792 0 0 0 0
 -
-38.130.176.90
-0 2 1 27903 1 1535116723 0 0
-/
 193.105.166.15
-0 15 15 35960 10 1535151372 0 0
+0 15 15 76275 12 1535236730 0 0
 /wp-cron.php
 77.219.15.30
-0 188 134 3569461 4 1535151505 0 0
-/en/
-38.130.185.25
-0 1 1 23982 1 1535117322 0 0
-/
-159.148.188.43
-0 71 70 1678344 1 1535114727 0 0
-/
-77.219.15.74
-0 136 131 3224630 2 1535132501 0 0
-/
-66.102.9.136
-0 1 1 18317 0 0 0 0
--
-64.41.200.105
-0 2 2 233951 1 1535113716 0 0
+0 78 57 2420244 2 1535209363 0 0
 /
 95.170.73.141
-0 18 9 328897 4 1535126209 0 0
-/
-87.149.77.110
-0 69 67 1635859 1 1535131201 0 0
+0 6 3 77941 2 1535225717 0 0
 /
 95.170.73.143
-0 6 6 107688 0 0 0 0
+0 3 3 58536 0 0 0 0
 -
-204.187.14.71
-0 69 69 1644646 1 1535112621 0 0
+82.193.79.132
+0 88 67 2653027 2 1535207604 0 0
 /
-185.13.112.67
-0 287 274 9352977 1 1535092312 0 0
-/en/contacts/
-88.135.134.32
-0 72 47 407026 1 1535105488 0 0
-/ru/
+80.89.79.234
+0 66 65 1611932 1 1535157308 0 0
+/
 # End Of Table - sites (daily)
 # -referrers- 
 http://mlogistic.lv/wp-admin/plugins.php
@@ -1184,26 +1166,32 @@ http://mlogistic.lv/wp-admin/index.php
 1 3
 http://mlogistic.lv/wp-content/uploads/elementor/css/post-440.css
 1 7
+https://mlogistic.lv/ru/контакты/
+1 3
 http://mlogistic.lv/wp-content/uploads/elementor/css/post-424.css
 1 8
 https://mlogistic.lv/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css
-1 3
+1 4
 http://mlogistic.lv/wp-admin/post-new.php
 1 15
 https://mlogistic.lv/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
 1 1
 http://mlogistic.lv/wp-content/plugins/replain//assets/css/replain-wp-toolbar-link.css
 1 1
+https://mlogistic.lv/wp-admin/edit.php
+1 5
 http://mlogistic.lv/wp-admin/profile.php
 1 7
+https://mlogistic.lv/wp-admin/customize.php
+1 66
 http://mlogistic.lv/kontakti/
 1 130
 https://mlogistic.lv/ru/
-1 73
+1 159
 https://mlogistic.lv/
-1 441
+1 980
 https://mlogistic.lv/wp-cron.php
-1 10
+1 25
 http://www.mlogistic.lv/
 1 3
 http://mlogistic.lv/wp-content/plugins/megamenu/css/admin/global.css
@@ -1211,7 +1199,7 @@ http://mlogistic.lv/wp-content/plugins/megamenu/css/admin/global.css
 http://mlogistic.lv/ru/
 1 291
 https://mlogistic.lv/wp-content/themes/oceanwp/assets/css/third/font-awesome.min.css
-1 3
+1 4
 http://mlogistic.lv/lv
 1 45
 http://mlogistic.lv/ru/контакты/
@@ -1219,9 +1207,9 @@ http://mlogistic.lv/ru/контакты/
 http://mlogistic.lv/wp-cron.php
 1 37
 http://mlogistic.lv/en/
-1 231
+1 233
 - (Direct Request)
-0 362
+0 472
 http://mlogistic.lv/wp-content/themes/oceanwp/assets/css/third/font-awesome.min.css
 1 27
 http://mlogistic.lv/en/contacts/
@@ -1239,13 +1227,15 @@ https://mlogistic.lv/wp-admin/load-styles.php
 http://mlogistic.lv/wp-content/uploads/elementor/css/post-154.css
 1 12
 https://richpreview.com/
-0 1
+0 3
+https://mlogistic.lv/wp-admin/admin.php
+1 264
 https://mlogistic.lv/wp-content/plugins/replain//assets/css/replain-wp-toolbar-link.css
 1 1
 http://mlogistic.lv/wp-includes/css/dashicons.min.css
 1 6
 https://mlogistic.lv/wp-login.php
-1 20
+1 27
 http://mlogistic.lv/wp-content/plugins/ocean-extra/assets/css/widgets.css
 1 4
 https://mlogistic.lv/wp-content/uploads/2018/08/cropped-Mlogistic_logo-Burti-1.png
@@ -1277,21 +1267,23 @@ http://mlogistic.lv/wp-content/plugins/elementor/assets/lib/eicons/css/elementor
 http://mlogistic.lv/wp-admin/edit.php
 1 60
 https://mlogistic.lv/en/
-1 2
+1 27
 http://mlogistic.lv/wp-content/uploads/elementor/css/post-419.css
 1 12
 https://mlogistic.lv/en/contacts/
-1 44
+1 86
 https://mlogistic.lv/wp-admin/
-1 56
+1 103
 http://mlogistic.lv/wp-admin/load-styles.php
 1 1
 http://mlogistic.lv/wp-admin/customize.php
 1 309
+https://mlogistic.lv/wp-admin/post.php
+1 577
 # End Of Table - referrers
 # -agents- 
 Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Safari/601.1
-0 331
+0 397
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
 0 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
@@ -1301,21 +1293,21 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (K
 Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
 0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
-0 4782
+0 5967
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
 0 1066
 Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J710F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chr
 0 66
 Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 
-0 201
+0 203
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
-0 214
+0 263
 checkgzipcompression.com robot
-0 18
+0 24
 Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chr
 0 66
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
-0 161
+0 163
 MobileSafari/602.1 CFNetwork/811.5.4 Darwin/16.6.0
 0 6
 Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
@@ -1323,17 +1315,17 @@ Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
 Wget/1.17.1 (linux-gnu)
 0 287
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.0 Mobile/14F89 Sa
-0 481
+0 559
 Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/68.0.3440.83 Mobile/1
-0 206
+0 362
 Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
-0 461
+0 688
 Mozilla/5.0 (Windows; U; Windows NT 5.2; zh-TW; rv:1.9.1.5) Gecko/20091106 Shiretoko/3.5.5 (.NET CLR 3.5.30729)
 0 1
 WordPress/4.9.8; http://mlogistic.lv
 0 37
 WordPress/4.9.8; https://mlogistic.lv
-0 10
+0 25
 Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.
 0 69
 Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
@@ -1343,7 +1335,7 @@ WhatsApp/2.18.71 i
 Mozilla/5.0 (X11; Linux x86_64; GTmetrix https://gtmetrix.com/) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Sa
 0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
-0 3
+0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
 0 143
 Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) CriOS/67.0.3396.87 Mobile/14G60 Safa
